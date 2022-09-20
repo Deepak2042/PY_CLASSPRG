@@ -1,0 +1,3 @@
+# PY_CLASSPRG
+CLASS PRACT PRG.
+program 1 
